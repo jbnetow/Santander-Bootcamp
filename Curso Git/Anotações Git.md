@@ -44,4 +44,4 @@
 - git clone (url repositorio) - baixar repositorios, ja vem com a pasta .git
 
 ### Atalhos 
-- cntrl + l - limpa a tela
+- cntrl + l - limpar a tela
